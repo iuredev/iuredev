@@ -17,12 +17,12 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/iure.sg/" alt="Instagram" target="_blanc">
+  <a href="https://www.instagram.com/iure.sg/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iure.sg/"/></a>
   
-  <a href="https://www.linkedin.com/in/iure-silva-024047148/"  alt="Linkedin" target="_blanc">
+  <a href="https://www.linkedin.com/in/iure-silva-024047148/"  alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iure-silva-024047148/" /></a>
 
-  <a href="https://www.facebook.com/iuresilva996/" alt="Facebook" target="_blanc">
+  <a href="https://www.facebook.com/iuresilva996/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/iuresilva996/"/></a>
 </p>  
