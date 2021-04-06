@@ -1,11 +1,11 @@
-<img src="code-night.gif" margin-left="36px" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="code-night.gif" margin-left="36px" min-width="400px" max-width="400px" width="400px" align="right" alt="night-code">
 
 <p align="left"> 
   Olá meu nome é Iure, sou desenvolvedor de <strong>Front-End</strong> e <strong>Back-End</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, React, AdonisJs, Typescript, Express, MySql.</strong>
+  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, Sass, React, AdonisJs, Typescript, Express, MySql.</strong>
 </p>
 
 <p align="left">
