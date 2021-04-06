@@ -1,4 +1,4 @@
-<img src="night-code.gif" margin-left="36px" min-width="400px" style="border-radius:50%" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="night-code.gif" margin-left="36px" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Olá meu nome é Iure, sou desenvolvedor de <strong>Front-End</strong> e <strong>Back-End</strong>.
