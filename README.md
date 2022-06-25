@@ -1,7 +1,7 @@
 <img src="code-night.gif" margin-left="36px" min-width="400px" max-width="400px" width="400px" align="right" alt="night-code">
 
 <p align="left"> 
-  🖖 Olá meu nome é Iure, sou desenvolvedor <strong>Front-End</strong> e <strong>Back-End</strong>.
+  🖖 Olá meu nome é Iure, sou desenvolvedor <strong>FullStack</strong>.
 </p>
 
 <p align="left">
