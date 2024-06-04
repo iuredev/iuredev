@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, Sass, React, AdonisJs, Typescript, Express, MySql.</strong>
+  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, Sass, React, AdonisJs, Typescript, Express, MySql, Serverless, DynamoDb.</strong>
 </p>
 
 <p align="left">
