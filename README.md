@@ -3,16 +3,16 @@
 ###
 <p align="left">I'm Iure, a passionate Full Stack Developer (BE) who believes that mastering the basics is the foundation for building great things. Every day is an opportunity to explore new ideas, learn, and create impactful solutions. Welcome to my GitHub corner!</p>
 
-<br />
-<h2 align="left">👩‍💻  About Me</h2>
+
+<h2 align="left">👨‍💻 About Me</h2>
 
 ###
-<p align="left">- 🔭 I’m working as Full Stack Engineer at <a href="https://www.inhire.com.br/" target="_blank">InHire </a><br>- 📚 I'm currently learning design pattern, Go lang and Rust lang<br>- ⚡ In my free time I explore new technologies in my homelab  <br>- 🎯 Goals: I aim to expand my skill set and be part of challenging projects that push my limits</p>
+<p align="left">- 🔭 I’m working as Full Stack Engineer at <a href="https://www.inhire.com.br/" target="_blank">InHire </a><br><br>- 📚 I'm currently learning design pattern, Go lang and Rust lang<br><br>- ⚡ In my free time I explore new technologies in my homelab  <br><br>- 🎯 Goals: I aim to expand my skill set and be part of challenging projects that push my limits</p>
 
 ###
 
-<br />
-<h2 align="left">👨‍💻I code with</h2>
+
+<h2 align="left">👨‍💻 I code with</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<br />
+
 <h2 align="left">🛠️ Development tools</h2>
 
 ###
@@ -70,7 +70,7 @@
 </div>
 
 ###
-<br />
+
 <h2 align="left">💬 Social</h2>
 
 ###
