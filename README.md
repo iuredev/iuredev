@@ -1,22 +1,16 @@
 <h1 align="left">Hey there 👋</h1>
 
 ###
-
 <p align="left">I'm Iure, a passionate Full Stack Developer (BE) who believes that mastering the basics is the foundation for building great things. Every day is an opportunity to explore new ideas, learn, and create impactful solutions. Welcome to my GitHub corner!</p>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<br clear="both">
 
 <p align="left">- 🔭 I’m working as Full Stack Engineer at <a href="https://www.inhire.com.br/" target="_blank">InHire </a>><br>- 📚 I'm currently learning design pattern, Go lang and Rust lang<br>- ⚡ In my free time I explore new technologies in my homelab  <br>- 🎯 Goals: I aim to expand my skill set and be part of challenging projects that push my limits</p>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">👨‍💻I code with</h3>
 
@@ -56,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠️ Development tools</h3>
 
 ###
@@ -81,8 +73,6 @@
 <h3 align="left">💬 Social</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/iure-silva/" target="_blank">
