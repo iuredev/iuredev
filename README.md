@@ -3,6 +3,7 @@
 ###
 <p align="left">I'm Iure, a passionate Full Stack Developer (BE) who believes that mastering the basics is the foundation for building great things. Every day is an opportunity to explore new ideas, learn, and create impactful solutions. Welcome to my GitHub corner!</p>
 
+<br />
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
@@ -10,6 +11,7 @@
 
 ###
 
+<br />
 <h2 align="left">👨‍💻I code with</h2>
 
 ###
@@ -48,8 +50,8 @@
 
 ###
 
+<br />
 <h2 align="left">🛠️ Development tools</h2>
-
 
 ###
 
@@ -68,9 +70,8 @@
 </div>
 
 ###
-
+<br />
 <h2 align="left">💬 Social</h2>
-
 
 ###
 
