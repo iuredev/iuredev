@@ -8,7 +8,7 @@
 ###
 
 
-<p align="left">- 🔭 I’m working as Full Stack Engineer at <a href="https://www.inhire.com.br/" target="_blank">InHire </a>><br>- 📚 I'm currently learning design pattern, Go lang and Rust lang<br>- ⚡ In my free time I explore new technologies in my homelab  <br>- 🎯 Goals: I aim to expand my skill set and be part of challenging projects that push my limits</p>
+<p align="left">- 🔭 I’m working as Full Stack Engineer at <a href="https://www.inhire.com.br/" target="_blank">InHire </a><br>- 📚 I'm currently learning design pattern, Go lang and Rust lang<br>- ⚡ In my free time I explore new technologies in my homelab  <br>- 🎯 Goals: I aim to expand my skill set and be part of challenging projects that push my limits</p>
 
 ###
 
